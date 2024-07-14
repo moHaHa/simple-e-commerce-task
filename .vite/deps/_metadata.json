@@ -1,0 +1,64 @@
+{
+  "hash": "6e12ebfe",
+  "configHash": "e18c0056",
+  "lockfileHash": "0a7375e9",
+  "browserHash": "4c2dcff9",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/.pnpm/react@18.3.1/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "f70b530f",
+      "needsInterop": true
+    },
+    "antd": {
+      "src": "../../node_modules/.pnpm/antd@5.19.1_react-dom@18.3.1_react@18.3.1/node_modules/antd/es/index.js",
+      "file": "antd.js",
+      "fileHash": "37c9c1e6",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "60beaf5e",
+      "needsInterop": true
+    },
+    "react-query": {
+      "src": "../../node_modules/.pnpm/react-query@3.39.3_react-dom@18.3.1_react@18.3.1/node_modules/react-query/es/index.js",
+      "file": "react-query.js",
+      "fileHash": "88127d7d",
+      "needsInterop": false
+    },
+    "antd/es/message/useMessage": {
+      "src": "../../node_modules/.pnpm/antd@5.19.1_react-dom@18.3.1_react@18.3.1/node_modules/antd/es/message/useMessage.js",
+      "file": "antd_es_message_useMessage.js",
+      "fileHash": "0a7b0d7c",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/.pnpm/react@18.3.1/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "80b8a4d7",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/.pnpm/react-router-dom@6.24.1_react-dom@18.3.1_react@18.3.1/node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "ef82182e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-GNGSPWBW": {
+      "file": "chunk-GNGSPWBW.js"
+    },
+    "chunk-AFFRTDZL": {
+      "file": "chunk-AFFRTDZL.js"
+    },
+    "chunk-7XA4PLQE": {
+      "file": "chunk-7XA4PLQE.js"
+    },
+    "chunk-BMKNQQUQ": {
+      "file": "chunk-BMKNQQUQ.js"
+    }
+  }
+}
