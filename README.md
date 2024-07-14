@@ -47,10 +47,14 @@ pnpm run dev
 
 https://minimal-crud-project-react-ts.netlify.app
 
-### Login
+### Products
 
 ![alt text](image.png)
 
-### Users
+### Cart
+
+![alt text](image-2.png)
+
+### Create New Product
 
 ![alt text](image-1.png)
